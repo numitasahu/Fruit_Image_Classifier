@@ -1,0 +1,8 @@
+streamlit
+Pillow
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+requests
